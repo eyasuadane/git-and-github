@@ -1,0 +1,7 @@
+print(4 > 3)
+print(4 >= 3)
+print(3 != 4)
+print(3 == 4)
+print(3 == int('3'))
+print( 2 is 2)
+print('Ethiopia' in ['Eritrea', 'Somalia', 'Ethiopia'])
